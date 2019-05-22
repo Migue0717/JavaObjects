@@ -45,7 +45,7 @@ public class MainClass {
 		
 		Instructor edwin = new Instructor();
 		edwin.setId(1);
-		edwin.setNombre("Edwin");
+		edwin.setNombre("Edwin P");
 		
 		Instructor jose = new Instructor();
 		jose.setId(3);
